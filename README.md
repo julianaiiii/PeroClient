@@ -1,3 +1,3 @@
 **PeroClient**
 
-NOT LICENCED
+JUST A PROJECT FOR FUN
