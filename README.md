@@ -1,3 +1,3 @@
-# PeroClient
+**PeroClient**
 
 A Client for everyone
