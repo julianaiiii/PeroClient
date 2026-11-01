@@ -1,3 +1,3 @@
 **PeroClient**
 
-A Client for everyone
+Soon available
